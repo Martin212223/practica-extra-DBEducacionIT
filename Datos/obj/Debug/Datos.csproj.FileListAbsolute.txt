@@ -1,0 +1,17 @@
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\Datos.dll.config
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\Datos.dll
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\Datos.pdb
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\Entidades.dll
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\Entidades.pdb
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\Entidades.dll.config
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.dll
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.pdb
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.Migrations.initial.resources
+C:\Users\Alternativa\Desktop\práctica extra\slnDBEscuela\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
